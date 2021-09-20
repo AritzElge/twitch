@@ -7,6 +7,7 @@ Here an updated list of the projects found in the repository
 
 1. PC Osciloscope / Data Adquisition System
   - [X] First version: Analog data visualizer using Arduino IDE Serial Plotter
+  - [ ] Second version: Interactive GUI for the Data Adquisition System
 
 2. Lab Power Supply
   - [ ] First version: +3.3 V, +5 V, -5 V, +12 V and -12 V Power Supply
